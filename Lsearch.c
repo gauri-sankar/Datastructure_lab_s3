@@ -64,14 +64,7 @@ void main()
     prints(a,n);
 
      lsearch( a, n, num);
-
-
-
-   
-    getch();
-
-    system("cls");
-
-    
+     getch();
+     system("cls");
 
 }
